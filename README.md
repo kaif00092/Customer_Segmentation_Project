@@ -39,3 +39,13 @@ After running the script, two image files will be saved in your project folder:
 elbow_method_plot.png: This graph helps you find the optimal number of clusters (in this case, 5).
 
 customer_segments.png: This scatter plot shows the final customer segments, each marked with a different color.
+### 💻 Technologies Used
+Python
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
