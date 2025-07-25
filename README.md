@@ -24,8 +24,7 @@ Make sure you have Python installed.
 
 ### 2. Install Required Libraries
 You can install all the necessary libraries using pip:
-
- ### Bash
+### Bash
 pip install pandas scikit-learn matplotlib seaborn
 ### 3. Execute the Script
 Run the main Python script from your terminal:
